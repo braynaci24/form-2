@@ -3,6 +3,7 @@ body {
 }
 .general-form {
     padding-top: 100px;
+    width: 1220px;
 }
 .left-block {
     float: left;
