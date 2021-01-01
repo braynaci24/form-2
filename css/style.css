@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.general-form {
+    padding-top: 100px;
+}
+.left-block {
+    float: left;
+}
+.hood {
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    display: block;
+    color: #ff0000;
+}
+.box-text{
+    width: 300px;
+    height: 35px;
+    margin-top: 25px;
+    font-size: 12px;
+    border-radius: 7px;
+    background: #e6e6e6;
+    border: solid #cccccc;
+}
+.box-text-1 {
+    margin-top: 10px;
+}
+.box-size {
+    height: 100px;
+}
+.button {
+    display: block;
+    margin: 30px;
+    width: 300px;
+    height: 30px;
+    border-radius: 7px;
+    border: solid red;
+    background: red;
+    color: white;
+}
